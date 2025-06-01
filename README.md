@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nhlosenhle! <br/><a href="https://github.com/Nhlosenhle-Mkhonta">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Nhlosenhle! <br/><a href="https://github.com/Nhlosenhle-Mkhonta"> IT Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 
 <h2>Cybersecurity Projects:</h2>
 
@@ -15,7 +15,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: www.linkedin.com/in/nhlosenhle-mkhonta-46b031322
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
