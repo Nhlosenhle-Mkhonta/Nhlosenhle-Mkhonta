@@ -11,7 +11,7 @@
 
 ## 📬 Connect With Me
 <p>
-  <a href="senhlemkhonta@gmail.com" target="_blank">
+  <a href="mailto:senhlemkhonta@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" width="25" />
   </a>
   &nbsp;&nbsp;
