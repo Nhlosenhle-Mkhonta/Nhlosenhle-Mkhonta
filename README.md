@@ -9,25 +9,15 @@
 - 🧬 Symmetric-key cryptography  
 - 🧠 Hash functions for integrity in CIA Triad  
 
-## 🧠 Always Learning  
-I’m expanding my skill set in JavaScript, Sublime Text, JetBrains IDE, and cybersecurity frameworks. I enjoy connecting technical depth to practical real-world applications.
+## 📬 Connect With Me
+<p>
+  <a href="senhlemkhonta@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" width="25" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nhlosenhle-mkhonta-46b031322/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="25" />
+  </a>
+</p>
 
-## 📬 Connect With Me  
-[linkedin]: https://www.linkedin.com/in/nhlosenhle-mkhonta-46b031322
 
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
