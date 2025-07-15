@@ -14,9 +14,7 @@ I’m expanding my skill set in JavaScript, Sublime Text, JetBrains IDE, and cyb
 
 ## 📬 Connect With Me  
 [linkedin]: https://www.linkedin.com/in/nhlosenhle-mkhonta-46b031322
----
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci
 
 
 <!--
