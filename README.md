@@ -1,21 +1,23 @@
-<h1>Hi, I'm Nhlosenhle! <br/><a href="https://github.com/Nhlosenhle-Mkhonta"> IT Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+# 👋 Hi, I'm Nhlosenhle!  
+🚀 IT & Cybersecurity Enthusiast | 🧠 Threat Intelligence Explorer | 💻 Python Developer  
 
-<h2>Cybersecurity Projects:</h2>
+## 🛡️ Cybersecurity Projects  
+- 🔍 **Home Network Monitoring** — Tracking traffic and threat vectors  
+- 🕵️‍♂️ **Threat Actor Analysis** — Exploring APT1 infrastructure, WEBC2, RAR tools  
+- 📊 **CTI Frameworks** — Working with the Intelligence Pyramid, IOCs, CIA Triad  
+- 📦 Modular Python scripts for automation and data integrity monitoring  
+- 🧬 Symmetric-key cryptography  
+- 🧠 Hash functions for integrity in CIA Triad  
 
-- <b>Home network</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Python</b>
-  
-<h2>Web devlopment Projects:</h2>
+## 🧠 Always Learning  
+I’m expanding my skill set in JavaScript, Sublime Text, JetBrains IDE, and cybersecurity frameworks. I enjoy connecting technical depth to practical real-world applications.
 
+## 📬 Connect With Me  
+[linkedin]: https://www.linkedin.com/in/nhlosenhle-mkhonta-46b031322
+---
 
-<h2> 🤳 Connect with me:</h2>
+> “Learning never exhausts the mind.” – Leonardo da Vinci
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://www.linkedin.com/in/nhlosenhle-mkhonta-46b031322/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
