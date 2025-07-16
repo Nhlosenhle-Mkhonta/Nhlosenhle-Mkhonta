@@ -1,15 +1,10 @@
 # Hi, I'm Nhlosenhle!  
 IT & Cybersecurity Enthusiast | Threat Intelligence Explorer | Python Developer  
 
-## Cybersecurity Projects  
-- 🔍 **Home Network Monitoring** — Tracking traffic and threat vectors  
-- 🕵️‍♂️ **Threat Actor Analysis** — Exploring APT1 infrastructure, WEBC2, RAR tools  
-- 📊 **CTI Frameworks** — Working with the Intelligence Pyramid, IOCs, CIA Triad  
-- 📦 Modular Python scripts for automation and data integrity monitoring  
-- 🧬 Symmetric-key cryptography  
-- 🧠 Hash functions for integrity in CIA Triad  
+I'm an IT & Cybersecurity Enthusiast dedicated to defending digital landscapes through proactive security measures. As a Threat Intelligence Explorer, I investigate emerging cyber threats, dissect attacker methodologies, and transform data into actionable defenses. My Python development skills drive automation, security tooling, and threat-hunting solutions—bridging code with cybersecurity to build resilient systems. Feel free to look at my projects below⬇️
 
 ## Connect With Me
+Let's collaborate on fortifying the digital frontier! Reach out to discuss threat intelligence, security automation, or innovative defense strategies.
 <p>
   <a href="mailto:senhlemkhonta@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" width="25" />
